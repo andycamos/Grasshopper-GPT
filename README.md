@@ -1,8 +1,9 @@
+![1687752466367](image/README/1687752466367.png)
+
 ### GH-GPT
 
 C# and python code component to use OpenAI's GPT API inside Grasshopper.
 
-![1687752466367](image/README/1687752466367.png)
 
 ### **To use C#:**
 
